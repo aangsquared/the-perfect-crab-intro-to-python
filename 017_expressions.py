@@ -93,8 +93,8 @@ add_one(add_one(add_one(add_one(add_one(add_one(1))))))
 
 # EXPRESSIONS PLAYGROUND BEGINS
 
-
-
+add_one(5) * add_one(2)
+(add_one(5) * add_one(2)) // 3
 # EXPRESSIONS PLAYGROUND ENDS
 
 # When you're done, move on to 018_statements.py
